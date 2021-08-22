@@ -1,0 +1,63 @@
+body{
+  background-color: black;
+}
+
+.categories{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+
+h2{
+  color: white;
+  background-color: black;
+ border: 2px solid #e7e7e7;
+}
+
+.engine{
+  position: absolute;
+  top: 120px;
+  left: 200px;
+}
+
+.cooling{
+  position: absolute;
+  top: 120px;
+  left: 550px;
+}
+
+.chassis{
+  position: absolute;
+  top: 120px;
+  left: 900px;
+}
+
+.steering{
+  position: absolute;
+  top: 550px;
+  left: 200px;
+}
+
+.electrical{
+  position: absolute;
+  top: 550px;
+  left: 550px;
+}
+
+.ignition{
+  position: absolute;
+  top: 550px;
+  left: 900px;
+}
+
+.hvac{
+  position: absolute;
+  top: 990px;
+  left: 190px;
+}
+
+.lubricants{
+  position: absolute;
+  top: 990px;
+  left: 750px;
+}
